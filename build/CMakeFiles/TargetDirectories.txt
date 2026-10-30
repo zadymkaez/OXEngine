@@ -1,0 +1,3 @@
+/home/michal/MyEngine/build/CMakeFiles/MyEngine.dir
+/home/michal/MyEngine/build/CMakeFiles/edit_cache.dir
+/home/michal/MyEngine/build/CMakeFiles/rebuild_cache.dir
