@@ -1,0 +1,38 @@
+=== Build Directory ===
+build/
+bin/
+lib/
+out/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+=== IDE & Editors ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*.user
+.clangd/
+.cache/
+
+=== Compiled Binaries & Libraries ===
+*.o
+*.obj
+*.a
+*.lib
+*.so
+.so.
+*.dylib
+*.dll
+*.exe
+
+=== OS Generated Files ===
+.DS_Store
+Thumbs.db
+
+=== Logs & Temporary Files ===
+*.log
+*.tmp
