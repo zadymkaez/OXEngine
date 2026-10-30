@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/MyEngine.dir/src/Main.cpp.o CMakeFiles/MyEngine.dir/src/Engine.cpp.o -o MyEngine  /usr/lib/x86_64-linux-gnu/libSDL2.so 
